@@ -1,2 +1,5 @@
-#!/usr/bin/python3
-print("\"Programming is like building a multilingual puzzle")
+from __future__ import print_function
+
+print("""\
+"Programming is like building a multilingual puzzle"
+""")
