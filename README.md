@@ -6,4 +6,4 @@ but am back thrilled to anounce starting of alx high level part of alx
 
 
 firstly we are gonna start with python basics 
-running hello word and some beginners basic knowledge
+running hello word and some beginners basic knowledge26332
