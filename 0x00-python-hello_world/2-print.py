@@ -1,5 +1,7 @@
-from __future__ import print_function
+#!/usr/bin/python3
 
-print("""\
-"Programming is like building a multilingual puzzle"
-""")
+"""
+This script demonstrates the analogy of programming to building a multilingual puzzle.
+"""
+
+print("\"Programming is like building a multilingual puzzle")
